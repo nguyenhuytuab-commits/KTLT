@@ -209,7 +209,7 @@ public:
          //Ngay ket thuc chon thoi diem hien tai neu chua tra hoac thoi diem da tra sach truoc thoi han
         time_t ngay_ket_thuc = da_tra_sach ? ngay_tra : time(nullptr);
        
-        int qua_han = (ngay_ket_thuc - han_tra) / (60*1);// nhom de thoi gian han la 1 phut de phu hop voi dieu kien thuc hien testcase 27 cua bao cao
+        int qua_han = (ngay_ket_thuc - han_tra) / (60*1);// nhom de thoi gian han la 1 phut de phu hop voi dieu kien thuc hien testcase 28 cua bao cao
         if(qua_han <= 0) return 0;
         return qua_han * 5000 * so_luong_muon;
     }
