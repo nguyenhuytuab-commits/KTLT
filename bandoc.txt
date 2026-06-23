@@ -1,0 +1,19 @@
+6
+SV001
+Nguyen Van An
+1
+SV002
+Tran Thi Binh
+1
+SV003
+Le Minh Hoang
+1
+GV001
+Pham Van Cuong
+2
+GV002
+Nguyen Thi Dung
+2
+GV003
+Tran Quang Huy
+2

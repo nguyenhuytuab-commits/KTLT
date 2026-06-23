@@ -1,0 +1,31 @@
+5
+B001
+Lap trinh C++
+Bjarne Stroustrup
+Cong nghe thong tin
+8
+15
+B002
+Cau truc du lieu va giai thuat
+Nguyen Duc Nghia
+Cong nghe thong tin
+12
+10
+B003
+Co so du lieu
+Abraham Silberschatz
+Cong nghe thong tin
+6
+7
+B004
+Giai tich 1
+Nguyen Dinh Tri
+Toan hoc
+20
+4
+B005
+Vat ly dai cuong
+David Halliday
+Vat ly
+15
+3
